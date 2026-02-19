@@ -22,5 +22,6 @@ I bring a strong foundation in cross-cultural communication and leadership:
 * **Public Administration:** Managed critical back-office operations, logistics, and public-facing support for the local government of São Pedro da Cova.
 
 ### 📫 Let's Connect!
-* [cite_start]**Email:** jp.pedroporto@gmail.com [cite: 3]
-* [cite_start]**Phone:** +351 924086579 [cite: 2]
+* **Email:** jp.pedroporto@gmail.com
+* **Linkedind:** https://www.linkedin.com/in/joaoparodrigues06
+
