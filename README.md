@@ -4,8 +4,8 @@
 A proactive and solution-focused individual with a passion for tackling complex challenges. With a dynamic approach, a strong sense of accountability, and a constant desire to learn and improve, I am a natural problem-solver seeking to join a forward-thinking organization where I can apply my energy to add immediate value.
 
 ###  Current Focus
-* 🧑‍🎓 **Studying:** Bachelor in Computer Engineering at ISTEC PORTO (2023-2026).
-* 🔬 **Researching:** Currently a Research Fellow for Science4Policy 2025 at CITECA. I am contributing to an upcoming AI-driven solution for predicting recidivism in domestic violence cases. My focus includes data pipelines, anonymization, feature engineering, and Explainable AI (XAI).
+*  **Studying:** Bachelor in Computer Engineering at ISTEC PORTO (2023-2026).
+*  **Researching:** Currently a Research Fellow for Science4Policy 2025 at CITECA. I am contributing to an upcoming AI-driven solution for predicting recidivism in domestic violence cases. My focus includes data pipelines, anonymization, feature engineering, and Explainable AI (XAI).
 
 ### 🛠️ Tech Stack & Skills
 * 💻 **Languages:** C, C#, Python 
